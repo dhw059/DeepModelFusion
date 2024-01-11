@@ -8,7 +8,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/aimat-lab/gcnn_keras)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 
-# Keras Graph Convolution Neural Networks
+# LGDCNN fusion neural networks
 <p align="left">
   <img src="https://github.com/aimat-lab/gcnn_keras/blob/master/docs/source/_static/icon.svg" height="80"/>
 </p>
