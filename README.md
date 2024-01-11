@@ -9,9 +9,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 
 # LGDCNN fusion neural networks
-<p align="left">
-  <img src="https://github.com/aimat-lab/gcnn_keras/blob/master/docs/source/_static/icon.svg" height="80"/>
-</p>
+
 
 A set of layers for graph convolutions in Keras.
 
