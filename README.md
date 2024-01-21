@@ -3,7 +3,7 @@
 <strong>**Rational Design of Deep Learning Networks Based on Fusion Strategy for Improved Materials Property Predictions**</strong> </br>
 <em>xxxxxxxxxx (XXX)</em>  </br>
 [Hongwei Du, Hong Wang](*equal contribution) </br>
-Carnegie Mellon University </br>
+Shanghai Jiao Tong University </br>
 
 <img src="figs/scheme.png" width="600">
 
