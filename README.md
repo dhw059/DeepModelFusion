@@ -1,15 +1,7 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/aimat-lab/gcnn_keras)
-[![Documentation Status](https://readthedocs.org/projects/kgcnn/badge/?version=latest)](https://kgcnn.readthedocs.io/en/latest/?badge=latest)
-[![PyPI version](https://badge.fury.io/py/kgcnn.svg)](https://badge.fury.io/py/kgcnn)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/kgcnn)
-[![kgcnn_unit_tests](https://github.com/aimat-lab/gcnn_keras/actions/workflows/unittests.yml/badge.svg)](https://github.com/aimat-lab/gcnn_keras/actions/workflows/unittests.yml)
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.simpa.2021.100095%20-blue)](https://doi.org/10.1016/j.simpa.2021.100095)
-![GitHub](https://img.shields.io/github/license/aimat-lab/gcnn_keras)
-![GitHub issues](https://img.shields.io/github/issues/aimat-lab/gcnn_keras)
-![Maintenance](https://img.shields.io/maintenance/yes/2023)
+
 
 # LGDCNN fusion neural networks
-
+Rational Design of Deep Learning Networks Based on Fusion Strategy for Improved Materials Property Predictions. Shanghai Jiao Tong University
 
 A set of layers for graph convolutions in Keras.
 
