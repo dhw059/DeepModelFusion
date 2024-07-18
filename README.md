@@ -1,7 +1,7 @@
 # LGDCNN
 
 <strong>**Rational Design of Deep Learning Networks Based on Fusion Strategy for Improved Materials Property Predictions**</strong> </br>
-<em>JCTC (XXX)</em>  </br>
+<em>JCTC (https://pubs.acs.org/doi/10.1021/acs.jctc.4c00187)</em>  </br>
 [Hongwei Du, Hong Wang] </br>
 Shanghai Jiao Tong University </br>
 
