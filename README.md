@@ -14,7 +14,8 @@ If you find our work useful in your research, please cite:
 ```
 
 {
-Have been accepeted by JCTC,Accepted on 08 July 2024. Hongwei Du, Hong Wang*
+Have been accepeted by JCTC,Accepted on 08 July 2024.https://pubs.acs.org/doi/10.1021/acs.jctc.4c00187
+Hongwei Du, Hong Wang*
 1 School of Materials Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China.
 2 Zhangjiang Institute for Advanced Study, Shanghai Jiao Tong University, Shanghai 201203, China.
 3 Materials Genome Initiative Center, Shanghai Jiao Tong University, Shanghai 200240, China.
